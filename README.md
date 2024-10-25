@@ -30,4 +30,4 @@ HTML & CSS: For frontend design and layout.
 
 JSON: For data exchange between backend and frontend.
 
-Shoutout to Tech with Tim 
+Tutorial video: https://www.youtube.com/watch?v=PppslXOR7TA&t=3008s
