@@ -3,7 +3,6 @@ import ContactList from './ContactList'
 import './App.css'
 import ContactForm from './ContactForm'
 
-// resume on 1:14:25
 
 function App() {
   const [contacts, setContacts] = useState([])
