@@ -2,6 +2,8 @@
 
 This project is a dynamic web application built from scratch as part of a comprehensive full-stack development tutorial. It combines the power of Python with Flask for backend development and JavaScript with React for frontend development.
 
+The app allows users to perform basic CRUD operations: add a new contact, edit/update an existing contact, delete a contact, and view a list of all contacts.
+
 **Features**
 
 Backend with Flask (Python): Manages server-side logic, routing, and API endpoints.
